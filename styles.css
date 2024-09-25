@@ -1,0 +1,49 @@
+
+html{
+    width:100%;
+    background-color: rgb(96, 51, 155);
+}
+h1{
+    color:bisque;
+    text-align: center;
+}
+
+div#buttonscontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+}
+
+button{
+    flex: 1;
+    height: 150px;
+    width: 200px;
+    margin: 30px 15px;
+    font-size: 100px;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+
+#humanText {
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+p{
+    width: 50%;
+    text-align: center;
+    color: rgb(34, 178, 142);
+    font-weight: bold;
+}
+
+.PCchoice {
+
+    font-size: 10vw;
+    margin-left: 300px;
+    background-color: cadetblue;
+    border: solid black;
+    flex:1;
+}
