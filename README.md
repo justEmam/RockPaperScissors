@@ -1,2 +1,2 @@
 # RockPaperScissors
-Rock paper scissors game, without an interface. just js script.
+Rock paper scissors game, without an interface. just js script, (exercise)
